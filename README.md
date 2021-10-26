@@ -4,7 +4,7 @@
 <img src="gifs/57583_000082_Endzone.gif" width="400"/> 
 <br>
 ## With BBoxes image<br>
-<img src="gifs/withbboxes.gif" width="400"/> 
+<img src="gifs/with_bboxes.gif" width="400"/> 
 <br><br>
 ## Introduction<br>
 In this project, we are attempting to train yolov5 model to detect NFL helmets from gameplay footages. The dataset set that is used is from a kaggle competition
