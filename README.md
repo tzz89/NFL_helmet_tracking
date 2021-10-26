@@ -1,10 +1,10 @@
 # Finetuning yolov5
 
-## Original image
+## Original video
 <img src="gifs/57583_000082_Endzone.gif" width="400"/> 
 
 
-## With BBoxes image
+## With BBoxes video
 <img src="gifs/with_bboxes.gif" width="400"/> 
 
 ## Introduction
